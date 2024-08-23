@@ -1,0 +1,56 @@
+/* ---- 💫 https://github.com/JaKooLit 💫 ---- */
+/* Main Config 1080p */
+
+@import "~/.config/rofi/master-config.rasi" 
+
+/* ---- Configuration ---- */
+configuration {
+	font: "Fira Code SemiBold 12";
+}
+
+element-text {
+    font:	"Fira Code SemiBold 14";
+}
+
+
+//@theme "/usr/share/rofi/themes/nord.rasi"
+
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/DarkBlue.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_1.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_11.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_11.rasi"
+
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+
+//@theme "/usr/share/rofi/themes/blue.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/Monokai.rasi"
+
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_12.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_12.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_9.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_11.rasi"
+
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"

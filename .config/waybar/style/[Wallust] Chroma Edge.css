@@ -129,7 +129,7 @@ tooltip label{
 	color: #e5e5e5;
 	/* color: #bf616a; */
 	border-radius: 12px;
-	background-color: rgba(50, 50, 50, 0.1);
+	background-color: rgba(50, 50, 50, 0.5);
 	border: 1px solid @color12;
 	padding-top: 4px;
 	padding-bottom: 4px;

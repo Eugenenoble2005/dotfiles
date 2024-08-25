@@ -39,6 +39,7 @@ setopt appendhistory
 
 export PATH=$PATH:/home/noble/.spicetify
 export PATH=$PATH:/home/noble/.dotnet
+export PATH=$PATH:/home/noble/.local/bin
 export conf=~/.config
 export wap=~/Pictures/wallpapers
 eval "$(zoxide init zsh)"

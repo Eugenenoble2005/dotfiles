@@ -13,7 +13,7 @@
 "modules-left": [
 	"custom/menu",
 	"custom/separator#blank_2",
-	"hyprland/workspaces#kanji",
+	"hyprland/workspaces#rw",
 	"custom/separator#blank_2",
 	"mpris",
 	"tray",

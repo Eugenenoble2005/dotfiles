@@ -55,4 +55,8 @@ element-text {
 
 //@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"
 
-@theme "/home/noble/.local/share/rofi/themes/style_8.rasi"
+//@theme "/home/noble/.local/share/rofi/themes/style_8.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_6.rasi"
+
+@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"

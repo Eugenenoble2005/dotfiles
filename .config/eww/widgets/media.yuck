@@ -18,7 +18,7 @@
   :monitor 0
   :class "media"
   :namespace "eww-media-widget"
-  :geometry (geometry :anchor "bottom right" :width "300px" :height "330px" :x "30px")
+  :geometry (geometry :anchor "top right" :width "300px" :height "330px" :x "30px")
   (box :orientation "v" :spacing -200
     (box  :height "300px" :style "background-image:url('${mediaart}')" :class "mediaart")
     (label :text mediatitle :class "mediatitle" :truncate true)

@@ -25,7 +25,7 @@
 	"custom/swaync"
 	],
   
-"modules-center": ["hyprland/workspaces#roman"], 
+"modules-center": ["hyprland/workspaces#rw"], 
 	
 "modules-right": [
 	"pulseaudio#1",

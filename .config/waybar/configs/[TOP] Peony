@@ -20,7 +20,7 @@
 "width": 1444,
 	
 "modules-left": [
-	"hyprland/workspaces#roman", 
+	"hyprland/workspaces#rw", 
 	"mpris", 
 	"custom/swaync", 
 	"tray"

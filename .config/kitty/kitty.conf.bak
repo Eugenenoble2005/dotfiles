@@ -23,6 +23,9 @@ window_padding_width 4
 # cursor #dddddd
 
 # BEGIN_KITTY_THEME
-# Alabaster Dark
+# 3024 Night
 include current-theme.conf
 # END_KITTY_THEME
+#
+#
+ #include wallust/kitty.conf

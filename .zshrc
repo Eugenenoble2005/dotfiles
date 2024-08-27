@@ -3,7 +3,7 @@
 
 export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="cypher"
+ZSH_THEME="agnoster"
 
 plugins=(
     git
@@ -19,8 +19,9 @@ source $ZSH/oh-my-zsh.sh
 
 # Display Pokemon-colorscripts
 # Project page: https://gitlab.com/phoneybadger/pokemon-colorscripts#on-other-distros-and-macos
-pokemon-colorscripts --no-title -s  -r
-#nitch
+nitch
+pokemon-colorscripts --no-title -s   -r
+
 # Set-up icons for files/folders in terminal
 alias ls='eza -a --icons'
 alias ll='eza -al --icons'
@@ -36,7 +37,7 @@ HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
 setopt appendhistory
-
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=50'
 export PATH=$PATH:/home/noble/.spicetify
 export PATH=$PATH:/home/noble/.dotnet
 export PATH=$PATH:/home/noble/.local/bin

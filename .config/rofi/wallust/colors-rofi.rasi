@@ -1,33 +1,33 @@
 * {
-active-background: #401422;
-main-bg:            #251D1F;
-main-bg-transparent:   rgba(37,29,31,0.5);
-main-fg:            #FCE8F5;
-select-bg:          #E95B88;
-select-fg:          #FCE8F5;
-active-foreground: #FCE8F5;
-normal-background: #251D1F;
-normal-foreground: #FCE8F5;
-urgent-background: #E95B88;
-urgent-foreground: #FCE8F5;
+active-background: #275863;
+main-bg:            #000206;
+main-bg-transparent:   rgba(0,2,6,0.5);
+main-fg:            #FDF6E5;
+select-bg:          #AE8B7A;
+select-fg:          #FDF6E5;
+active-foreground: #FDF6E5;
+normal-background: #000206;
+normal-foreground: #FDF6E5;
+urgent-background: #AE8B7A;
+urgent-foreground: #FDF6E5;
 
-alternate-active-background: #BB47AD;
-alternate-active-foreground: #FCE8F5;
-alternate-normal-background: #251D1F;
-alternate-normal-foreground: #FCE8F5;
-alternate-urgent-background: #251D1F;
-alternate-urgent-foreground: #FCE8F5;
+alternate-active-background: #B57B64;
+alternate-active-foreground: #FDF6E5;
+alternate-normal-background: #000206;
+alternate-normal-foreground: #FDF6E5;
+alternate-urgent-background: #000206;
+alternate-urgent-foreground: #FDF6E5;
 
-selected-active-background: #401422;
-selected-active-foreground: #FCE8F5;
-selected-normal-background: #F3D6E8;
-selected-normal-foreground: #FCE8F5;
-selected-urgent-background: #E95B88;
-selected-urgent-foreground: #FCE8F5;
+selected-active-background: #275863;
+selected-active-foreground: #FDF6E5;
+selected-normal-background: #F3E9D1;
+selected-normal-foreground: #FDF6E5;
+selected-urgent-background: #AE8B7A;
+selected-urgent-foreground: #FDF6E5;
 
-background-color: #251D1F;
+background-color: #000206;
 background: rgba(0,0,0,0.7);
-foreground: #F3D6E8;
-border-color: #401422;
+foreground: #F3E9D1;
+border-color: #275863;
 }
 

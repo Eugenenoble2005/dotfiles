@@ -23,7 +23,7 @@ window_padding_width 4
 # cursor #dddddd
 
 # BEGIN_KITTY_THEME
-# Alucard
+# shadotheme
 include current-theme.conf
 # END_KITTY_THEME
 #

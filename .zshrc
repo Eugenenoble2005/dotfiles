@@ -4,7 +4,7 @@
 
 export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="agnoster"
+ZSH_THEME="wezm+"
 
 plugins=(
     git
@@ -20,7 +20,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Display Pokemon-colorscripts
 # Project page: https://gitlab.com/phoneybadger/pokemon-colorscripts#on-other-distros-and-macos
-nitch
+#nitch
 pokemon-colorscripts --no-title -s   -r
 
 # Set-up icons for files/folders in terminal

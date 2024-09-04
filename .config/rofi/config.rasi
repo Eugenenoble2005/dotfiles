@@ -73,4 +73,10 @@ element-text {
 
 //@theme "/home/noble/.local/share/rofi/themes/style_7.rasi"
 
-@theme "/usr/share/rofi/themes/arthur.rasi"
+//@theme "/usr/share/rofi/themes/arthur.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_10.rasi"
+
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+
+@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"

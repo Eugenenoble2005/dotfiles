@@ -13,7 +13,7 @@ rofi_config="$HOME/.config/rofi/config-waybar-layout.rasi"
 
 # Function to display menu options
 menu() {
-    options=()
+    options=("random")
     while IFS= read -r file; do
         options+=("$(basename "$file")")
     done < <(find "$waybar_layouts" -maxdepth 1 -type f -exec basename {} \; | sort)
@@ -43,6 +43,8 @@ main() {
     if [[ -z "$choice" ]]; then
         echo "No option selected. Exiting."
         exit 0
+    elif [[ $choice == "random" ]]; then
+      ruby "$HOME/.config/hypr/UserScripts/RandomWaybarConfig.rb" &
     fi
 
     case $choice in

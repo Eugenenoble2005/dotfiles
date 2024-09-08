@@ -13,7 +13,7 @@ font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
 }
 
 window#waybar {
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,0.7);
 	border-radius: 12px;
 }
 
@@ -26,7 +26,7 @@ window#waybar.empty #window {
     padding: 0px;
     border: 0px;
     /*  background-color: rgba(66,66,66,0.5); */ /* transparent */
-    background-color: transparent;
+    background-color: rgba(0,0,0,0.7);
 }
 
 tooltip {

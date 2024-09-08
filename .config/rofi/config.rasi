@@ -81,4 +81,6 @@ element-text {
 
 //@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
 
-@theme "/usr/share/rofi/themes/lb.rasi"
+//@theme "/usr/share/rofi/themes/lb.rasi"
+
+@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"

@@ -12,7 +12,7 @@ configuration {
     icon-theme:                  "Tela-circle-dracula";
 }
 
-@theme "~/.config/rofi/theme.rasi"
+@theme "~/.config/rofi/wallust/colors-rofi.rasi"
 
 
 // Main //
@@ -26,7 +26,7 @@ window {
     spacing:                     0em;
     padding:                     0em;
     border-color:                @main-br;
-    background-color:            @main-bg;
+    background-color:            @main-bg-transparent;
 }
 mainbox {
     enabled:                     true;

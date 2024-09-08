@@ -1,4 +1,5 @@
 Pictures/wallpapers/*.gif
 .local/state/*
+.local/share/Trash/*
 Pictures/wallpapers/preconvert
-
+Pictures/Screenshots/*

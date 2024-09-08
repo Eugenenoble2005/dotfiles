@@ -1,0 +1,27 @@
+{
+ 
+"include": "~/.config/waybar/modules",
+"layer": "top",
+//"mode": "dock",
+"exclusive": true,
+"passthrough": false,
+"position": "bottom",
+"spacing": 4,
+"fixed-center": true,
+"ipc": true,
+"height":35,
+
+//"margin-top": 0,
+//"margin-bottom": 0,
+//"margin-left": 0,
+//"margin-right": 0,
+	"modules-center": ["wlr/taskbar"], 
+  "modules-right":[
+    "clock",
+    "battery"
+  ],
+  "modules-left":[
+    "hyprland/workspaces#roman",
+    "custom/cava_mviz"
+  ]
+}

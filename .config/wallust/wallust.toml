@@ -44,6 +44,9 @@ waybar.target = '~/.config/waybar/wallust/colors-waybar.css'
 kitty.template = 'colors-kitty.conf'
 kitty.target = '~/.config/kitty/wallust/kitty.conf'
 
+gtk.template = 'colors-gtk.css'
+gtk.target='~/.themes/Dracula/gtk-3.20/gtk.css'
+
 #swaync.template = 'templates/colors-swaync.css'
 #swaync.target = '~/.config/swaync/wallust/colors-wallust.css'
 

@@ -17,8 +17,9 @@
 //"margin-right": 0,
 	"modules-center": ["wlr/taskbar"], 
   "modules-right":[
-    "clock",
-    "battery"
+  "tray",
+   "battery",
+    "clock"
   ],
   "modules-left":[
     "hyprland/workspaces#roman",

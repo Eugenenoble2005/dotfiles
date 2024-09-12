@@ -51,6 +51,7 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=50'
 export PATH=$PATH:/home/noble/.spicetify
 export PATH=$PATH:/home/noble/.dotnet
 export PATH=$PATH:/home/noble/.local/bin
+export PATH=$PATH:/home/noble/.local/share/gem/ruby/3.2.0/bin
 export conf=~/.config
 export wap=~/Pictures/wallpapers
 eval "$(zoxide init zsh)"

@@ -22,6 +22,8 @@ set $menu rofi -show drun -modi drun,filebrowser,run,window
 exec waybar &
 exec swww-daemon --format xrgb &
 exec swww restore
+
+exec xdg-desktop-portal
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in @datadir@/backgrounds/sway/)

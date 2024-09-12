@@ -30,6 +30,7 @@
 		
 "modules-right": [
 	"hyprland/window",
+  "network#speed",
 	"custom/separator#blank",
 	"custom/separator#blank", 
 	"pulseaudio",

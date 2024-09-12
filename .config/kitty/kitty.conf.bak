@@ -10,6 +10,8 @@ confirm_os_window_close 0
 # change to x11 or wayland or leave auto
 linux_display_server auto
 
+allow_remote_control true
+
 scrollback_lines 2000
 wheel_scroll_min_lines 1
 
@@ -23,7 +25,7 @@ window_padding_width 4
 # cursor #dddddd
 
 # BEGIN_KITTY_THEME
-# 1984 Orwellian
+# Wizzy Muted
 include current-theme.conf
 # END_KITTY_THEME
 #

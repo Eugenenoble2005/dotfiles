@@ -1,5 +1,6 @@
 /* ---- 💫 https://github.com/JaKooLit 💫 ---- */
 /* Chroma Glow */
+@import '../../.config/waybar/wallust/colors-waybar.css';
 
 * {
 	font-family: "JetBrainsMono Nerd Font";
@@ -11,7 +12,7 @@
 }
 
 window#waybar {
-    background-color: rgba(161,0,161,0.1);
+    background-color: @background;
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
@@ -26,7 +27,7 @@ window#waybar.empty,
 window#waybar.empty #window {
     padding: 0px;
     border: 0px;
-    background-color: rgba(161,0,161,0.1);
+    background-color: @background;
 }
 
 tooltip {

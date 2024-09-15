@@ -1,0 +1,9 @@
+.image_box{
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-size: cover;
+    background-position: center;
+}
+.media_text{
+    font-size: 25px;
+}

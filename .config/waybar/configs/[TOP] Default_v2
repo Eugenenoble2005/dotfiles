@@ -22,6 +22,7 @@
 	"group/motherboard",
 	"custom/separator#line",
 	"custom/weather",
+  "battery"
 	],
 
 "modules-center": [

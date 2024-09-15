@@ -103,4 +103,10 @@ element-text {
 
 //@theme "/home/noble/.local/share/rofi/themes/style_8.rasi"
 
-@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"
+//@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/rounded-red-dark.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/rounded-common.rasi"
+
+@theme "/home/noble/.local/share/rofi/themes/fancy2.rasi"

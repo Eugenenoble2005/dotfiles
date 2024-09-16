@@ -20,12 +20,29 @@ function Player(player){
                 children:[
                     Widget.Label({
                         label: player.bind("track_artists").transform(a => a.join(", ")),
-                        class_name:"media_text"
+                        class_name:"media_text",
+                        truncate:"end",
                         
                     }),
                     Widget.Label({
                        label: player.bind("track_title"),
-                       class_name:"media_text"
+                       class_name:"media_text",
+                       truncate:"end"
+                    }),            
+                    Widget.Slider({
+                        class_name: "position",
+                        draw_value: false,
+                        on_change: ({ value }) => player.position = value * player.length,
+                        visible: player.bind("length").as(l => l > 0),
+                        setup: self => {
+                            function update() {
+                                const value = player.position / player.length
+                                self.value = value > 0 ? value : 0
+                            }
+                            self.hook(player, update)
+                            self.hook(player, update, "position")
+                            self.poll(1000, update)
+                        },
                     })
                 ]
             })

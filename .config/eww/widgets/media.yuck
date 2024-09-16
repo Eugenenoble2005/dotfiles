@@ -1,25 +1,32 @@
+(defpoll isSpotify
+  :interval "1s"
+  :initial false
+  `ruby ~/.config/hypr/UserScripts/MediaWidget.rb --is-spotify`
+)
 (defpoll mediatitle 
   :interval "1s" 
   :initial "Nothing Playing"
-  `playerctl metadata xesam:title`
+  :run-while isSpotify
+  `ruby ~/.config/hypr/UserScripts/MediaWidget.rb --title`
 )
 (defpoll mediaartist 
  :interval "1s"
  :initial "Nothing Playing"
- `playerctl metadata xesam:artist`
+ :run-while isSpotify
+ `ruby ~/.config/hypr/UserScripts/MediaWidget.rb --artist`
 )
 (defpoll mediaart 
   :interval "1s"
   :initial "/home/noble/.config/hypr/wallpaper_effects/.wallpaper_current"
-  `playerctl metadata mpris:artUrl`
+  :run-while isSpotify
+  `ruby ~/.config/hypr/UserScripts/MediaWidget.rb --arturl`
 )
 (defwindow media
   :stacking "bg"
   :monitor 0
-  :class "media"
   :namespace "eww-media-widget"
   :geometry (geometry :anchor "bottom left" :width "300px" :height "330px" :x "30px")
-  (box :orientation "v" :spacing -200
+  (box :orientation "v" :spacing -200  :class "media-box" :visible isSpotify
     (box  :height "300px" :style "background-image:url('${mediaart}')" :class "mediaart")
     (label :text mediatitle :class "mediatitle" :truncate true)
     (label :text mediaartist :class "mediaartist")

@@ -1,3 +1,4 @@
+
 .image_box{
    background-repeat: no-repeat;
    background-size: 100%;
@@ -6,4 +7,21 @@
 }
 .media_text{
     font-size: 25px;
+}
+
+.position {
+    padding: 0;
+    margin-bottom: .3em;
+}
+
+.position trough {
+    min-height: 8px;
+}
+
+.position highlight {
+    background-color: @color1;
+}
+
+.position slider {
+    all: unset;
 }

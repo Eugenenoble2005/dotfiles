@@ -16,7 +16,7 @@ async function applyStyle() {
 applyStyle().catch(print);
 
 const Windows = () => [
-    Media(),
+    
     Overview(),
 ];
 const CLOSE_ANIM_TIME = 210;

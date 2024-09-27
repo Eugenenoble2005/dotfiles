@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/noble/Documents/swengine" added="2024-09-17T20:57:05.172552Z" modified="2024-09-25T18:46:45.931926Z" visited="2024-09-17T20:57:05.172553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-19T18:10:57.508256Z" count="6"/>
+          <bookmark:application name="emacs" exec="&apos;emacs %u&apos;" modified="2024-09-25T18:46:45.931923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/wallpapers/preconvert/Swordsman%20Inosuke%20Hashibira.mp4" added="2024-09-17T22:22:55.009922Z" modified="2024-09-17T22:22:55.009930Z" visited="2024-09-17T22:22:55.009924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-17T22:22:55.009926Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/wallpapers/Fireworks%20Anime%20Girl.gif" added="2024-09-18T07:28:24.950740Z" modified="2024-09-18T07:36:27.593315Z" visited="2024-09-18T07:28:24.950742Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-18T07:29:01.873125Z" count="4"/>
+          <bookmark:application name="Eye of GNOME" exec="&apos;eog %u&apos;" modified="2024-09-18T07:29:23.570775Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-18T07:36:27.593309Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/wallpapers/Tite%20Kubo,%20Bleach,%20minimalism,%20Meninas%20McAllon,%20ai-upscale%20%7C%2013616x19200%20Wallpaper%20-%20wallhaven.cc.jpg" added="2024-09-18T12:59:08.774222Z" modified="2024-09-18T12:59:08.774229Z" visited="2024-09-18T12:59:08.774223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-18T12:59:08.774226Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Documents/rustproject" added="2024-09-18T20:47:40.194294Z" modified="2024-09-18T22:31:16.527394Z" visited="2024-09-18T20:47:40.194295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-18T22:31:16.527389Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Documents/niri" added="2024-09-18T22:29:01.256565Z" modified="2024-09-18T22:29:01.281911Z" visited="2024-09-18T22:29:01.256566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-18T22:29:01.281906Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/wallpapers/Porsche%20991.gif" added="2024-09-19T15:06:53.450317Z" modified="2024-09-19T15:06:53.466821Z" visited="2024-09-19T15:06:53.450318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-19T15:06:53.466818Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/wallpapers/Fantasy%20Waterfalls.gif" added="2024-09-19T15:14:28.683202Z" modified="2024-09-19T15:14:28.706033Z" visited="2024-09-19T15:14:28.683203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-09-19T15:14:28.706028Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/Screenshots/swappy-20240921-220407.png" added="2024-09-21T21:04:17.099426Z" modified="2024-09-25T16:36:06.235414Z" visited="2024-09-21T21:04:17.099427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Zen" exec="&apos;zen-alpha %u&apos;" modified="2024-09-21T21:04:17.099487Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-25T16:36:05.684647Z" count="1"/>
+          <bookmark:application name="Eye of GNOME" exec="&apos;eog %u&apos;" modified="2024-09-25T16:36:06.235412Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/t" added="2024-09-24T03:26:24.707137Z" modified="2024-09-24T03:26:24.707144Z" visited="2024-09-24T03:26:24.707138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2024-09-24T03:26:24.707141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Pictures/Screenshots/swappy-20240921-220404.png" added="2024-09-25T16:36:03.839536Z" modified="2024-09-25T16:36:04.391996Z" visited="2024-09-25T16:36:03.839538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-25T16:36:03.839540Z" count="1"/>
+          <bookmark:application name="Eye of GNOME" exec="&apos;eog %u&apos;" modified="2024-09-25T16:36:04.391994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/wwn-0x50004cf20f13c4c6-part5/Videos/How%20To%20Train%20Your%20Dragon%20The%20Hidden%20World%20(2019)%20%5BBluRay%5D%20%5B1080p%5D%20%5BYTS.AM%5D/How.To.Train.Your.Dragon.The.Hidden.World.2019.1080p.BluRay.x264-%5BYTS.AM%5D.mp4" added="2024-09-26T18:09:49.151591Z" modified="2024-09-26T18:09:49.151599Z" visited="2024-09-26T18:09:49.151592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-26T18:09:49.151595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/wwn-0x50004cf20f13c4c6-part5/Videos/How%20To%20Train%20Your%20Dragon%20Homecoming%20(2019)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.MX%5D/How.To.Train.Your.Dragon.Homecoming.2019.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4" added="2024-09-26T18:10:19.123892Z" modified="2024-09-26T18:10:19.123901Z" visited="2024-09-26T18:10:19.123894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-26T18:10:19.123897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/wwn-0x50004cf20f13c4c6-part5/Videos/Atlanta/S04%20720p/Atlanta.S04E03.Born.2.Die.720p.English.Esubs.MoviesMod.space.mkv" added="2024-09-26T18:11:07.989656Z" modified="2024-09-26T18:11:07.989667Z" visited="2024-09-26T18:11:07.989658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-26T18:11:07.989662Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/wwn-0x50004cf20f13c4c6-part5/Videos/Atlanta/S04%20720p/Atlanta.S04E04.Light.Skinned-ed.720p.English.Esubs.MoviesMod.space.mkv" added="2024-09-26T18:31:33.946727Z" modified="2024-09-26T18:31:33.946737Z" visited="2024-09-26T18:31:33.946729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-26T18:31:33.946732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Videos/6/Lost.S06E10.720p.English.Esubs.MoviesVerse.Org.mkv" added="2024-09-27T08:58:13.179049Z" modified="2024-09-27T08:58:13.179065Z" visited="2024-09-27T08:58:13.179051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-27T08:58:13.179060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/noble/Videos/6/Lost.S06E11.720p.English.Esubs.MoviesVerse.Org.mkv" added="2024-09-27T08:58:25.961424Z" modified="2024-09-27T08:58:25.961430Z" visited="2024-09-27T08:58:25.961425Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-09-27T08:58:25.961427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

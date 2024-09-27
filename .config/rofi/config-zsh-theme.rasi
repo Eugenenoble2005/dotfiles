@@ -41,6 +41,7 @@ listview {
   columns: 3;
   lines: 3;
   spacing: 4px;
+  orientation: vertical;
   border-radius: 10px;
 }
 

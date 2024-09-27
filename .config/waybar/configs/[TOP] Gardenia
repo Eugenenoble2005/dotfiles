@@ -35,12 +35,4 @@
 	],
 
 },
-{
-"include":"~/.config/waybar/modules",
-"height":10,
-"position":"bottom",
-"exclusive":false,
-"modules-center": [
-	"wlr/taskbar"
 ]
-}]

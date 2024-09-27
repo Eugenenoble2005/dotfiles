@@ -111,4 +111,66 @@ element-text {
 
 //@theme "/home/noble/.local/share/rofi/themes/fancy2.rasi"
 
-@theme "/usr/share/rofi/themes/android_notification.rasi"
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+//@theme "/usr/share/rofi/themes/Indego.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_8.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_9.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_1.rasi"
+
+//@theme "/usr/share/rofi/themes/lb.rasi"
+
+//@theme "/usr/share/rofi/themes/glue_pro_blue.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/lb.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/dracula1.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_12.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_3.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_2.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_12.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_7.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_4.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/windows11-grid-light.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_12.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_7.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/style_1.rasi"
+
+//@theme "/home/noble/.local/share/rofi/themes/docu.rasi"
+
+@theme "/home/noble/.local/share/rofi/themes/style_8.rasi"

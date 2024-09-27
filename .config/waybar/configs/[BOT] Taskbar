@@ -9,20 +9,22 @@
 "spacing": 4,
 "fixed-center": true,
 "ipc": true,
-"height":35,
+
 
 //"margin-top": 0,
 //"margin-bottom": 0,
 //"margin-left": 0,
 //"margin-right": 0,
-	"modules-center": ["wlr/taskbar"], 
+	"modules-center": ["hyprland/submap","hyprland/window"], 
   "modules-right":[
   "tray",
    "battery",
-    "clock"
+    "clock",
+    "hyprland/submap",
+    
   ],
   "modules-left":[
-    "hyprland/workspaces#roman",
+    "wlr/taskbar",
     "custom/cava_mviz"
   ]
 }

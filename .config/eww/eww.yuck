@@ -1,3 +1,4 @@
 (include "widgets/spiderverse.yuck")
 (include "widgets/datetime.yuck")
 (include "widgets/media.yuck")   
+(include "widgets/artist-lyrics.yuck")

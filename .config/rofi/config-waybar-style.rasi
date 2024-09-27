@@ -12,6 +12,7 @@ configuration {
 mainbox {
   children:
     [ "inputbar", "listview"];
+    orientation: vertical;
 }
 
 entry {

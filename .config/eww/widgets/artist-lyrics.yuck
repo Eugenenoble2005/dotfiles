@@ -1,0 +1,15 @@
+(defpoll artist-lyrics
+  :interval "5m"
+  :initial "Loading.."
+  `node ~/Documents/artist-lyrics/main.js --artist "Kendrick Lamar"`
+)
+
+ 
+(defwindow artist-lyrics
+  :stacking "bg"
+  :monitor 0
+  :namespace "artist-lyrics-widgets"
+  :geometry (geometry :anchor "bottom center")
+
+  (label :text artist-lyrics)
+) 

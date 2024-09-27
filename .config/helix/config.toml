@@ -3,4 +3,4 @@ theme="base16_transparent"
 enable=true
 
 [editor.gutters]
-layout = ["diff", "diagnostics","spacer"]
+layout = ["diff","spacer"]

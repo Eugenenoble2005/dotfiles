@@ -25,9 +25,9 @@ window_padding_width 4
 # cursor #dddddd
 
 # BEGIN_KITTY_THEME
-# 1984 Orwellian
+# Goa Base
 include current-theme.conf
 # END_KITTY_THEME
 #
 #
- include wallust/kitty.conf
+# include wallust/kitty.conf

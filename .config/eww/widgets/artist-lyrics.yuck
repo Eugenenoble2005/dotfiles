@@ -1,7 +1,7 @@
 (defpoll artist-lyrics
   :interval "5m"
   :initial "Loading.."
-  `node ~/Documents/artist-lyrics/main.js --artist "Kendrick Lamar"`
+  `node ~/Documents/artist-lyrics/main.js --artist \"The weeknd\"`
 )
 
  

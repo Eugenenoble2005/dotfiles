@@ -1,11 +1,10 @@
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
-#pokemon-colorscripts --no-title -s   -r
-nitch
-if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-fi
+#nitch
+# if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+#   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+# fi
 
 
 # If you come from bash you might have to change your $PATH.
@@ -13,7 +12,7 @@ fi
 
 export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="powerlevel10k/powerlevel10k"
+ZSH_THEME="half-life"
 
 plugins=(
     git
@@ -31,6 +30,7 @@ source $ZSH/oh-my-zsh.sh
 # Project page: https://gitlab.com/phoneybadger/pokemon-colorscripts#on-other-distros-and-macos
 #nitch
 
+pokemon-colorscripts --no-title -s   -r
 
 # Set-up icons for files/folders in terminal
 alias ls='eza -a --icons'
@@ -40,7 +40,7 @@ alias lt='eza -a --tree --level=1 --icons'
 alias backup_dots='~/./backup_dots.sh'
 alias s="sudo"
 alias pkgs="pacman -Q"
-
+alias hx="helix"
 # Set-up FZF key bindings (CTRL R for fuzzy history finder)
 source <(fzf --zsh)
 
@@ -52,7 +52,6 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=50'
 export PATH=$PATH:/home/noble/.spicetify
 export PATH=$PATH:/home/noble/.dotnet
 export PATH=$PATH:/home/noble/.local/bin
-export PATH=$PATH:/home/noble/.local/share/gem/ruby/3.2.0/bin
 export conf=~/.config
 export wap=~/Pictures/wallpapers
 eval "$(zoxide init zsh)"
@@ -61,9 +60,6 @@ eval "$(zoxide init zsh)"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# bun completions
-[ -s "/home/noble/.bun/_bun" ] && source "/home/noble/.bun/_bun"
 
-# bun
-export BUN_INSTALL="$HOME/.bun"
-export PATH="$BUN_INSTALL/bin:$PATH"
+
+

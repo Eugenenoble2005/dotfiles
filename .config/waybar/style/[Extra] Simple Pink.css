@@ -4,6 +4,7 @@
 /* ......................................... */
 /* --- 👍 designed by https://github.com/Krautt  👍 --- */
 
+@import '../../.config/waybar/wallust/colors-waybar.css';
 * {
 	font-family: "JetBrains Mono Nerd Font";
 	font-weight: bold;
@@ -44,7 +45,7 @@ tooltip {
 .modules-right {
 	border: 5px solid #19141b;
 	border-radius: 50px 50px 50px 50px;
-	background-color: rgb(128,0,128);
+	background-color: @color1;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	padding-right: 4px;
@@ -63,7 +64,7 @@ tooltip {
 .modules-left {
 	border: 5px solid #0d0a0f;
 	border-radius: 50px 50px 50px 50px;
-	background-color: purple;
+	background-color: @color1;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	padding-right: 4px;
@@ -84,7 +85,7 @@ tooltip {
 
 #workspaces button.active {
 	color: whitesmoke;
-	background-color: pink;
+	background-color: @color1;
     border-radius: 15px 15px 15px 15px;
     padding-left: 8px;
     padding-right: 8px;

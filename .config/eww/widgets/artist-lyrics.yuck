@@ -9,7 +9,7 @@
   :stacking "bg"
   :monitor 0
   :namespace "artist-lyrics-widgets"
-  :geometry (geometry :anchor "bottom center")
+  :geometry (geometry :anchor "top center")
 
   (label :text artist-lyrics)
 ) 

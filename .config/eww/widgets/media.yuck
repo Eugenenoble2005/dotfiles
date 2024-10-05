@@ -21,6 +21,10 @@
   :run-while isSpotify
   `ruby ~/.config/hypr/UserScripts/MediaWidget.rb --arturl`
 )
+(deflisten cava
+  `bash ~/.config/hypr/UserScripts/EwwCava.sh`
+  
+)
 (defwindow media
   :stacking "bg"
   :monitor 0
@@ -28,6 +32,7 @@
   :geometry (geometry :anchor "bottom left" :width "300px" :height "330px" :x "30px")
   (box :orientation "v" :spacing -200  :class "media-box" :visible isSpotify
     (box  :height "300px" :style "background-image:url('${mediaart}')" :class "mediaart")
+    (label :text cava :class "mediaartist")
     (label :text mediatitle :class "mediatitle" :truncate true)
     (label :text mediaartist :class "mediaartist")
   )
